@@ -22,3 +22,17 @@
 .secrel{
     margin-top: 5%;
 }
+
+.accordion_area{
+    margin-top: 17%;
+}
+
+.breadcumb-area{
+    background-image: url("../imgs_relatos/vista-lateral-amigos-latinos-saindo_23-2151139417.jpg")
+}
+
+.borda{
+    box-sizing: border-box;
+    border-color: black;
+   
+}
